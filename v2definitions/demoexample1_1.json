@@ -1,0 +1,831 @@
+{
+    "type":"Application",
+    "id":"BublApp",
+    "children":[
+        {
+            "opacity":0.0,
+            "show":true,
+            "id":"rootView",
+            "bgColour":"#FF0000",
+            "position":{
+                "top":"middle",
+                "left":"middle"
+            },
+            "type":"BublView",
+            "children":[
+                {
+                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/6b41b93c-1e8d-4c86-8a8a-f0d8fea77f09.jpg",
+                    "oldid":"Background",
+                    "oldtype":"BubbleImage",
+                    "cssClass":"Background-36",
+                    "id":"id31",
+                    "size":{
+                        "width":1366,
+                        "height":768
+                    },
+                    "oldguid":"6d86babf-67a2-47c6-9c95-f91dc762f79b",
+                    "children":[
+                        {
+                            "opacity":1.0,
+                            "auto added control":true,
+                            "oldguid":"6d86babf-67a2-47c6-9c95-f91dc762f79b",
+                            "type":"BublControl",
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/6b41b93c-1e8d-4c86-8a8a-f0d8fea77f09.jpg",
+                            "oldid":"Background",
+                            "oldtype":"BubbleImage",
+                            "cssClass":"Background-36",
+                            "id":"id31",
+                            "size":{
+                                "width":1366,
+                                "height":768
+                            }
+                        },
+                        {
+                            "oldid":"Personal Message Box",
+                            "oldtype":"BubbleRectangle",
+                            "cssClass":"PersonalMessageBox-13",
+                            "id":"id3",
+                            "size":{
+                                "width":358,
+                                "height":268
+                            },
+                            "oldguid":"26582a4f-ef95-42d3-9bb8-1b521483a8fa",
+                            "children":[
+                                {
+                                    "opacity":0.75,
+                                    "auto added control":true,
+                                    "oldguid":"26582a4f-ef95-42d3-9bb8-1b521483a8fa",
+                                    "type":"BublControl",
+                                    "oldid":"Personal Message Box",
+                                    "oldtype":"BubbleRectangle",
+                                    "cssClass":"PersonalMessageBox-13 ms-blue",
+                                    "id":"id3",
+                                    "size":{
+                                        "width":358,
+                                        "height":268
+                                    }
+                                },
+                                {
+                                    "opacity":1.0,
+                                    "bgColour":"#FFFFFF",
+                                    "image":"",
+                                    "oldid":"Personal Message",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"PersonalMessage-10 text ms-menuControl  fontstyle0",
+                                    "id":"id0",
+                                    "size":{
+                                        "width":313,
+                                        "height":137
+                                    },
+                                    "oldguid":"9b4f7277-3d7e-4a81-acea-172392d3195a",
+                                    "label":"<p>This is where the CTM will type a personal message to his/her customer. The video on this page will be from the CTM too, but it will be a pre-recorded video that will be used for everyone.</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":0.0,
+                                        "bgtop":0.0,
+                                        "bgheight":0.0
+                                    },
+                                    "position":{
+                                        "top":28,
+                                        "left":19
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":1.0,
+                                    "image":"",
+                                    "oldid":"Marleen Reininger",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"MarleenReininger-11 text ms-menuControl  fontstyle1",
+                                    "id":"id1",
+                                    "size":{
+                                        "width":260,
+                                        "height":44
+                                    },
+                                    "oldguid":"37b37bba-9c67-4189-b66a-5169a8d62be6",
+                                    "label":"<p>Marleen Reininger</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":0.0,
+                                        "bgtop":0.0,
+                                        "bgheight":0.0
+                                    },
+                                    "position":{
+                                        "top":159,
+                                        "left":33
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":1.0,
+                                    "image":"",
+                                    "oldid":"Corporate Account Ma",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"CorporateAccountMa-12 text ms-menuControl  fontstyle0",
+                                    "id":"id2",
+                                    "size":{
+                                        "width":309,
+                                        "height":32
+                                    },
+                                    "oldguid":"f1bb201d-63cb-4e2b-8ae2-baadfb05074b",
+                                    "label":"<p>Corporate Account Manager, Microsoft UK</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":0.0,
+                                        "bgtop":0.0,
+                                        "bgheight":0.0
+                                    },
+                                    "position":{
+                                        "top":202,
+                                        "left":33
+                                    },
+                                    "type":"msMenuBox"
+                                }
+                            ],
+                            "position":{
+                                "top":404,
+                                "left":91
+                            },
+                            "type":"BublView"
+                        },
+                        {
+                            "opacity":1.0,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/d5903897-1d1c-4283-8741-5b41ce3736f9.mp4",
+                            "oldid":"FEEBUB Marleen Reininger_copy",
+                            "oldtype":"BubbleVideo",
+                            "cssClass":"FEEBUBMarleenReiningercopy-9",
+                            "id":"id4",
+                            "size":{
+                                "width":358,
+                                "height":267
+                            },
+                            "oldguid":"0ddb8ac5-a2a1-4700-82e6-726665a4f8f4",
+                            "content":{
+                                "url":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/d5903897-1d1c-4283-8741-5b41ce3736f9.mp4"
+                            },
+                            "position":{
+                                "top":132,
+                                "left":91
+                            },
+                            "type":"BublVideo"
+                        },
+                        {
+                            "opacity":1.0,
+                            "image":"",
+                            "oldid":"Hover over prioritie",
+                            "oldtype":"BubbleText",
+                            "cssClass":"Hoveroverprioritie-35 text ms-menuControl  fontstyle2",
+                            "id":"id5",
+                            "size":{
+                                "width":1357,
+                                "height":29
+                            },
+                            "oldguid":"212c4f02-a329-4cdc-b4db-b9a393a0ab91",
+                            "label":"<p>Hover over priorities to highlight relevant new capabilities</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":705,
+                                "left":4
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":1.0,
+                            "image":"",
+                            "oldid":"Public Safety",
+                            "oldtype":"BubbleText",
+                            "cssClass":"PublicSafety-2 text ms-menuControl  fontstyle3",
+                            "id":"id6",
+                            "size":{
+                                "width":674,
+                                "height":57
+                            },
+                            "oldguid":"682fbcb4-6ce7-4ae3-a91d-672858ac21e7",
+                            "label":"<p>Public Safety</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":36,
+                                "left":85
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/cc7a7a3f-a417-4f06-b278-c71e9f7c7e4a.jpg",
+                            "oldid":"Situational Awarenes",
+                            "oldtype":"BubbleText",
+                            "cssClass":"SituationalAwarenes-22 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id7",
+                            "size":{
+                                "width":177,
+                                "height":176
+                            },
+                            "oldguid":"91b56b81-135a-4c0e-9176-7d165ffbe62c",
+                            "label":"<p>Situational Awareness</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":177.0,
+                                "bgtop":0.0,
+                                "bgheight":176.0
+                            },
+                            "position":{
+                                "top":131,
+                                "left":699
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/e00668a2-0b92-4b53-873c-3d30ae42eae2.jpg",
+                            "oldid":"Accurate Evidence Co",
+                            "oldtype":"BubbleText",
+                            "cssClass":"AccurateEvidenceCo-24 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id8",
+                            "size":{
+                                "width":177,
+                                "height":176
+                            },
+                            "oldguid":"2ab95139-13c5-4a1a-a887-d4c0a494ea9f",
+                            "label":"<p>Accurate Evidence Collection</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":177.0,
+                                "bgtop":0.0,
+                                "bgheight":176.0
+                            },
+                            "position":{
+                                "top":404,
+                                "left":699
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/cae49150-2e44-4f9a-810c-f427803eb454.jpg",
+                            "oldid":"Control, Compliance,",
+                            "oldtype":"BubbleText",
+                            "cssClass":"ControlCompliance-30 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id9",
+                            "size":{
+                                "width":177,
+                                "height":176
+                            },
+                            "oldguid":"4e91b545-8dea-4fb4-8fb8-1a31f4c0d9ea",
+                            "label":"<p>Control, Compliance, Security & Privacy</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":177.0,
+                                "bgtop":0.0,
+                                "bgheight":176.0
+                            },
+                            "position":{
+                                "top":495,
+                                "left":882
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/27007bb7-95d1-4030-a7af-f13a4a097578.jpg",
+                            "oldid":"Predicting & Prevent",
+                            "oldtype":"BubbleText",
+                            "cssClass":"PredictingPrevent-32 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id10",
+                            "size":{
+                                "width":177,
+                                "height":176
+                            },
+                            "oldguid":"936d991e-d247-4eed-8720-3280e99af710",
+                            "label":"<p>Predicting & Preventing Crime</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":177.0,
+                                "bgtop":0.0,
+                                "bgheight":176.0
+                            },
+                            "position":{
+                                "top":222,
+                                "left":1065
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/4672d477-ead7-4fcc-ac08-2a15203f984d.jpg",
+                            "oldid":"Emergency Incident &",
+                            "oldtype":"BubbleText",
+                            "cssClass":"EmergencyIncident-34 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id11",
+                            "size":{
+                                "width":177,
+                                "height":176
+                            },
+                            "oldguid":"9b614b2e-5d7d-4352-92a2-bcd2e74d2053",
+                            "label":"<p>Emergency Incident & Event Management</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":177.0,
+                                "bgtop":0.0,
+                                "bgheight":176.0
+                            },
+                            "position":{
+                                "top":494,
+                                "left":1065
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"",
+                            "oldid":"Intel",
+                            "oldtype":"BubbleText",
+                            "cssClass":"Intel-15 text ms-menuControl  fontstyle0 ms-blue",
+                            "id":"id12",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"973f2baa-6e99-40fd-85b1-cf40f466adab",
+                            "label":"<p>Intel</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":131,
+                                "left":482
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"",
+                            "oldid":"Case Management",
+                            "oldtype":"BubbleText",
+                            "cssClass":"CaseManagement-16 text ms-menuControl  fontstyle0 ms-blue",
+                            "id":"id13",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"573d6f3f-b1f1-407b-b2fd-22fcb41f1545",
+                            "label":"<p>Case Management</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":222,
+                                "left":482
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"",
+                            "oldid":"MASH",
+                            "oldtype":"BubbleText",
+                            "cssClass":"MASH-17 text ms-menuControl  fontstyle0 ms-blue",
+                            "id":"id14",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"af717870-0e65-4b56-94cf-dc311a779d7d",
+                            "label":"<p>MASH</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":313,
+                                "left":482
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"",
+                            "oldid":"Comms & Control",
+                            "oldtype":"BubbleText",
+                            "cssClass":"CommsControl-18 text ms-menuControl  fontstyle0 ms-blue",
+                            "id":"id15",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"7bd38298-b205-4ff0-a4cb-21c060e0f5b3",
+                            "label":"<p>Comms & Control</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":404,
+                                "left":482
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"",
+                            "oldid":"Crime & Custody",
+                            "oldtype":"BubbleText",
+                            "cssClass":"CrimeCustody-19 text ms-menuControl  fontstyle0 ms-blue",
+                            "id":"id16",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"899a8911-b778-4293-b878-6a335af87cd0",
+                            "label":"<p>Crime & Custody</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":495,
+                                "left":482
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"",
+                            "oldid":"Citizen Engagement",
+                            "oldtype":"BubbleText",
+                            "cssClass":"CitizenEngagement-20 text ms-menuControl  fontstyle0 ms-blue",
+                            "id":"id17",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"311ccaf5-fcac-42cc-9cc6-b520dca22544",
+                            "label":"<p>Citizen Engagement</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":586,
+                                "left":482
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/b184220b-0657-4998-a9d6-0a92a4db2ff2.png",
+                            "oldid":"Right Information, R",
+                            "oldtype":"BubbleText",
+                            "cssClass":"RightInformationR-23 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id18",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"5a978e83-7671-45a5-a2cf-866d9bb4dc41",
+                            "label":"<p>Right Information, Right Time</p>",
+                            "content":{
+                                "bgleft":135.0,
+                                "bgwidth":32.0,
+                                "bgtop":44.91,
+                                "bgheight":31.43
+                            },
+                            "position":{
+                                "top":313,
+                                "left":699
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/b84ef2e1-54e1-455a-a9f6-a0fdda66a313.png",
+                            "oldid":"Case Collaboration",
+                            "oldtype":"BubbleText",
+                            "cssClass":"CaseCollaboration-25 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id19",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"ec9caaa3-6676-4826-b115-23d3ca022c33",
+                            "label":"<p>Case Collaboration</p>",
+                            "content":{
+                                "bgleft":115.0,
+                                "bgwidth":67.0,
+                                "bgtop":26.0,
+                                "bgheight":67.0
+                            },
+                            "position":{
+                                "top":586,
+                                "left":699
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/62944650-3121-4e6d-9248-6d7c7f89b866.png",
+                            "oldid":"Creating a Single Vi",
+                            "oldtype":"BubbleText",
+                            "cssClass":"CreatingaSingleVi-26 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id20",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"508cb63c-b51c-43fa-8847-29b38f3b700a",
+                            "label":"<p>Creating a Single View from Legacy Systems</p>",
+                            "content":{
+                                "bgleft":142.0,
+                                "bgwidth":28.0,
+                                "bgtop":49.0,
+                                "bgheight":28.0
+                            },
+                            "position":{
+                                "top":131,
+                                "left":882
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/acf41434-822f-43ec-98ec-19013ec76101.png",
+                            "oldid":"Improved Citizen Ser",
+                            "oldtype":"BubbleText",
+                            "cssClass":"ImprovedCitizenSer-27 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id21",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"ed2c72ed-1b5c-451a-a7cf-f2aa97f3eaec",
+                            "label":"<p>Improved Citizen Services</p>",
+                            "content":{
+                                "bgleft":132.09,
+                                "bgwidth":32.91,
+                                "bgtop":45.0,
+                                "bgheight":34.48
+                            },
+                            "position":{
+                                "top":222,
+                                "left":882
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/cc3f95e2-7c3c-4050-b427-14b3e0e9f6a6.png",
+                            "oldid":"Non-Urgent Crime Rep",
+                            "oldtype":"BubbleText",
+                            "cssClass":"NonUrgentCrimeRep-28 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id22",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"39bcedae-d254-41cb-b95e-a11a99c3306a",
+                            "label":"<p>Non-Urgent Crime Reporting</p>",
+                            "content":{
+                                "bgleft":133.0,
+                                "bgwidth":31.0,
+                                "bgtop":46.0,
+                                "bgheight":31.0
+                            },
+                            "position":{
+                                "top":313,
+                                "left":882
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/f6c1d495-8b6a-49c7-ab54-d8a11024cf57.png",
+                            "oldid":"Crime & Intel Report",
+                            "oldtype":"BubbleText",
+                            "cssClass":"CrimeIntelReport-29 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id23",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"b1304c20-cdb2-43c6-af7b-49389634a4dc",
+                            "label":"<p>Crime & Intel Reporting</p>",
+                            "content":{
+                                "bgleft":136.0,
+                                "bgwidth":31.0,
+                                "bgtop":46.65,
+                                "bgheight":30.35
+                            },
+                            "position":{
+                                "top":404,
+                                "left":882
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/b3594d36-3ef6-46ae-afae-47ad294f0b97.png",
+                            "oldid":"Visualising Trends",
+                            "oldtype":"BubbleText",
+                            "cssClass":"VisualisingTrends-31 text ms-menuControl  fontstyle2 ms-blue",
+                            "id":"id24",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"9c55b383-d042-4364-bb5d-cd136aa43543",
+                            "label":"<p>Visualising Trends</p>",
+                            "content":{
+                                "bgleft":124.0,
+                                "bgwidth":56.0,
+                                "bgtop":35.0,
+                                "bgheight":56.0
+                            },
+                            "position":{
+                                "top":131,
+                                "left":1065
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/3f1f07f1-b618-44e5-97b7-d09426628dc8.png",
+                            "oldid":"Offender 360  View ",
+                            "oldtype":"BubbleText",
+                            "cssClass":"Offender360View-33 text ms-menuControl  ms-blue",
+                            "id":"id25",
+                            "size":{
+                                "width":177,
+                                "height":85
+                            },
+                            "oldguid":"c0be7df0-95f7-4156-8daf-7d37cabff90e",
+                            "label":"",
+                            "content":{
+                                "bgleft":127.0,
+                                "bgwidth":48.0,
+                                "bgtop":38.0,
+                                "bgheight":48.0
+                            },
+                            "position":{
+                                "top":404,
+                                "left":1065
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":1.0,
+                            "image":"",
+                            "oldid":"Welcome",
+                            "oldtype":"BubbleText",
+                            "cssClass":"Welcome-4 text ms-menuControl  fontstyle0",
+                            "id":"id26",
+                            "size":{
+                                "width":310,
+                                "height":36
+                            },
+                            "oldguid":"26d0c0f0-0bd7-4414-8d1e-0840c32a3f12",
+                            "label":"<p>Welcome</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":104,
+                                "left":88
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":1.0,
+                            "image":"",
+                            "oldid":"New Capabilities",
+                            "oldtype":"BubbleText",
+                            "cssClass":"NewCapabilities-6 text ms-menuControl  fontstyle0",
+                            "id":"id27",
+                            "size":{
+                                "width":310,
+                                "height":36
+                            },
+                            "oldguid":"43fdfbbe-d747-40a6-91f2-5cee2435e4df",
+                            "label":"<p>New Capabilities</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":104,
+                                "left":703
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":1.0,
+                            "oldid":"ms-logo-2012-white",
+                            "oldtype":"BubbleImage",
+                            "cssClass":"mslogo2012white-3",
+                            "id":"id28",
+                            "size":{
+                                "width":179,
+                                "height":43
+                            },
+                            "oldguid":"41c74f84-612b-4900-8be0-a21dbbb152f7",
+                            "content":{
+                                "url":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/4ba5daae-1550-4b16-aad1-25c7cf0a5e73.png"
+                            },
+                            "position":{
+                                "top":33,
+                                "left":1165
+                            },
+                            "type":"BublImage"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Cid/176/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/1ab8753e-83f6-4e71-924b-33ccca823f43.png",
+                            "oldid":"Next Steps_copy",
+                            "oldtype":"BubbleText",
+                            "cssClass":"NextStepscopy-1 text ms-menuControl  fontstyle4",
+                            "id":"id29",
+                            "size":{
+                                "width":173,
+                                "height":43
+                            },
+                            "oldguid":"eb5e9022-2042-4932-bda1-89334a787383",
+                            "label":"<p>Next Steps</p>",
+                            "content":{
+                                "bgleft":144.0,
+                                "bgwidth":24.0,
+                                "bgtop":10.0,
+                                "bgheight":24.0
+                            },
+                            "position":{
+                                "top":695,
+                                "left":1067
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":1.0,
+                            "image":"",
+                            "oldid":"Priorities",
+                            "oldtype":"BubbleText",
+                            "cssClass":"Priorities-5 text ms-menuControl  fontstyle0",
+                            "id":"id30",
+                            "size":{
+                                "width":165,
+                                "height":36
+                            },
+                            "oldguid":"643d19a4-b30c-471e-8923-008cd027ede8",
+                            "label":"<p>Priorities</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":104,
+                                "left":485
+                            },
+                            "type":"msMenuBox"
+                        }
+                    ],
+                    "position":{
+                        "top":1,
+                        "left":0
+                    },
+                    "type":"BublView"
+                }
+            ],
+            "size":{
+                "width":1366,
+                "height":768
+            }
+        }
+    ]
+}

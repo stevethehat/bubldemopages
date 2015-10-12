@@ -1,0 +1,354 @@
+{
+    "type":"Application",
+    "id":"BublApp",
+    "children":[
+        {
+            "opacity":0.0,
+            "show":true,
+            "id":"rootView",
+            "bgColour":"#FFFFFF",
+            "position":{
+                "top":"middle",
+                "left":"middle"
+            },
+            "type":"BublView",
+            "children":[
+                {
+                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Cid/176/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/712b1a0a-74b9-4c6b-ab2c-e3c70e5c06a2.png",
+                    "oldid":"Background Image",
+                    "oldtype":"BubbleImage",
+                    "cssClass":"BackgroundImage-13",
+                    "id":"id12",
+                    "size":{
+                        "width":1367,
+                        "height":772
+                    },
+                    "oldguid":"33b5d5d9-494c-4765-a55b-ecb8426829b2",
+                    "children":[
+                        {
+                            "opacity":1.0,
+                            "auto added control":true,
+                            "oldguid":"33b5d5d9-494c-4765-a55b-ecb8426829b2",
+                            "type":"BublControl",
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Cid/176/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/712b1a0a-74b9-4c6b-ab2c-e3c70e5c06a2.png",
+                            "oldid":"Background Image",
+                            "oldtype":"BubbleImage",
+                            "cssClass":"BackgroundImage-13",
+                            "id":"id12",
+                            "size":{
+                                "width":1367,
+                                "height":772
+                            }
+                        },
+                        {
+                            "oldid":"Main Box",
+                            "oldtype":"BubbleRectangle",
+                            "cssClass":"MainBox-12",
+                            "id":"id10",
+                            "size":{
+                                "width":714,
+                                "height":605
+                            },
+                            "oldguid":"bbdd0dc7-3df9-4731-91a7-fb92f6f05fdb",
+                            "children":[
+                                {
+                                    "opacity":0.8,
+                                    "auto added control":true,
+                                    "oldguid":"bbdd0dc7-3df9-4731-91a7-fb92f6f05fdb",
+                                    "type":"BublControl",
+                                    "oldid":"Main Box",
+                                    "oldtype":"BubbleRectangle",
+                                    "cssClass":"MainBox-12 ms-dk-purple",
+                                    "id":"id10",
+                                    "size":{
+                                        "width":714,
+                                        "height":605
+                                    }
+                                },
+                                {
+                                    "opacity":1.0,
+                                    "oldid":"Microsoft HQ",
+                                    "oldtype":"BubbleImage",
+                                    "cssClass":"MicrosoftHQ-4",
+                                    "id":"id0",
+                                    "size":{
+                                        "width":389,
+                                        "height":198
+                                    },
+                                    "oldguid":"409a7d7b-63d7-4416-88ef-71f2fc304ab3",
+                                    "content":{
+                                        "url":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/e406e69a-c10e-4c80-a035-f06a8e76ed58.jpg"
+                                    },
+                                    "position":{
+                                        "top":153,
+                                        "left":44
+                                    },
+                                    "type":"BublImage"
+                                },
+                                {
+                                    "opacity":1.0,
+                                    "image":"",
+                                    "oldid":"Marleen Reininger Co",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"MarleenReiningerCo-5 text ms-menuControl  fontstyle0",
+                                    "id":"id1",
+                                    "size":{
+                                        "width":376,
+                                        "height":193
+                                    },
+                                    "oldguid":"1693aa4a-9d49-4cc7-9472-37a9f0d05734",
+                                    "label":"<p>Microsoft CampusThames Valley ParkReadingBerkshire RG6 1WG</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":0.0,
+                                        "bgtop":0.0,
+                                        "bgheight":0.0
+                                    },
+                                    "position":{
+                                        "top":385,
+                                        "left":43
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":1.0,
+                                    "image":"",
+                                    "oldid":"Next Steps",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"NextSteps-3 text ms-menuControl  fontstyle1",
+                                    "id":"id2",
+                                    "size":{
+                                        "width":387,
+                                        "height":88
+                                    },
+                                    "oldguid":"256d76c5-6fc0-4d8e-bed6-2e136974e0e3",
+                                    "label":"<p>Next Steps</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":0.0,
+                                        "bgtop":0.0,
+                                        "bgheight":0.0
+                                    },
+                                    "position":{
+                                        "top":46,
+                                        "left":42
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/53e603af-a136-402f-b396-835273aeeac7.png",
+                                    "oldid":"Visit Our Website \u00bb",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"VisitOurWebsite-6 text ms-menuControl  fontstyle2 fontstyle0",
+                                    "id":"id3",
+                                    "size":{
+                                        "width":224,
+                                        "height":51
+                                    },
+                                    "oldguid":"03cc0787-77b8-45ad-8fd7-77049a4ea498",
+                                    "label":"<p></p><p>Visit Our Website </p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":48.0,
+                                        "bgtop":0.0,
+                                        "bgheight":48.0
+                                    },
+                                    "position":{
+                                        "top":63,
+                                        "left":466
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/53e603af-a136-402f-b396-835273aeeac7.png",
+                                    "oldid":"Customer Stories \u00bb",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"CustomerStories-7 text ms-menuControl  fontstyle2 fontstyle0",
+                                    "id":"id4",
+                                    "size":{
+                                        "width":224,
+                                        "height":51
+                                    },
+                                    "oldguid":"9200d78b-a253-4ac1-9924-7f5c4a71f6b9",
+                                    "label":"<p></p><p>Customer Stories </p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":48.0,
+                                        "bgtop":0.0,
+                                        "bgheight":48.0
+                                    },
+                                    "position":{
+                                        "top":139,
+                                        "left":466
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/53e603af-a136-402f-b396-835273aeeac7.png",
+                                    "oldid":"Upcoming Events \u00bb",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"UpcomingEvents-8 text ms-menuControl  fontstyle2 fontstyle0",
+                                    "id":"id5",
+                                    "size":{
+                                        "width":224,
+                                        "height":51
+                                    },
+                                    "oldguid":"6361acef-f414-4cf3-826a-98bbfeeb9d7f",
+                                    "label":"<p></p><p>Upcoming Events </p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":48.0,
+                                        "bgtop":0.0,
+                                        "bgheight":48.0
+                                    },
+                                    "position":{
+                                        "top":215,
+                                        "left":466
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/53e603af-a136-402f-b396-835273aeeac7.png",
+                                    "oldid":"Future Decoded \u00bb",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"FutureDecoded-9 text ms-menuControl  fontstyle2 fontstyle0",
+                                    "id":"id6",
+                                    "size":{
+                                        "width":224,
+                                        "height":51
+                                    },
+                                    "oldguid":"32098574-8aaa-4bdb-9c4b-49b838daac84",
+                                    "label":"<p></p><p>Future Decoded </p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":48.0,
+                                        "bgtop":0.0,
+                                        "bgheight":48.0
+                                    },
+                                    "position":{
+                                        "top":291,
+                                        "left":466
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/fea6719f-b4e5-45fe-8ddd-75b192e36681.png",
+                                    "oldid":"Back",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"Back-2 text ms-menuControl  fontstyle3",
+                                    "id":"id7",
+                                    "size":{
+                                        "width":142,
+                                        "height":80
+                                    },
+                                    "oldguid":"203881b2-13b3-4665-be44-34eb2e1e481d",
+                                    "label":"<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Back</p>",
+                                    "content":{
+                                        "bgleft":7.0,
+                                        "bgwidth":60.0,
+                                        "bgtop":9.84,
+                                        "bgheight":60.0
+                                    },
+                                    "position":{
+                                        "top":501,
+                                        "left":457
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Cid/176/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/bb0dd3f9-9b16-4473-b103-2d1ad8720cfd.png",
+                                    "oldid":"Twitter \u00bb",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"Twitter-10 text ms-menuControl  fontstyle2 fontstyle0",
+                                    "id":"id8",
+                                    "size":{
+                                        "width":200,
+                                        "height":51
+                                    },
+                                    "oldguid":"b1df8b6b-222f-468c-82cd-3cc9ce252142",
+                                    "label":"<p></p><p>Twitter </p>",
+                                    "content":{
+                                        "bgleft":-19.0,
+                                        "bgwidth":92.0,
+                                        "bgtop":-22.0,
+                                        "bgheight":92.0
+                                    },
+                                    "position":{
+                                        "top":443,
+                                        "left":466
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":1.0,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/53e603af-a136-402f-b396-835273aeeac7.png",
+                                    "oldid":"Email Me \u00bb",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"EmailMe-11 text ms-menuControl  fontstyle2 fontstyle0",
+                                    "id":"id9",
+                                    "size":{
+                                        "width":200,
+                                        "height":51
+                                    },
+                                    "oldguid":"71301164-3270-4cde-9c17-6b0105912a57",
+                                    "label":"<p></p><p>Email Me </p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":48.0,
+                                        "bgtop":0.0,
+                                        "bgheight":48.0
+                                    },
+                                    "position":{
+                                        "top":367,
+                                        "left":466
+                                    },
+                                    "type":"msMenuBox"
+                                }
+                            ],
+                            "position":{
+                                "top":103,
+                                "left":63
+                            },
+                            "type":"BublView"
+                        },
+                        {
+                            "opacity":1.0,
+                            "oldid":"Microsoft Logo",
+                            "oldtype":"BubbleImage",
+                            "cssClass":"MicrosoftLogo-1",
+                            "id":"id11",
+                            "size":{
+                                "width":182,
+                                "height":44
+                            },
+                            "oldguid":"95daa7d6-615f-414b-80a3-d616d046841f",
+                            "content":{
+                                "url":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/eb4dd018-5fc7-4f05-ada9-ea373c72e393.png"
+                            },
+                            "position":{
+                                "top":30,
+                                "left":1142
+                            },
+                            "type":"BublImage"
+                        }
+                    ],
+                    "position":{
+                        "top":0,
+                        "left":0
+                    },
+                    "type":"BublView"
+                }
+            ],
+            "size":{
+                "width":1366,
+                "height":768
+            }
+        }
+    ]
+}

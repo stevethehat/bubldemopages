@@ -1,0 +1,526 @@
+{
+    "type":"Application",
+    "id":"BublApp",
+    "children":[
+        {
+            "opacity":0.0,
+            "show":true,
+            "id":"rootView",
+            "bgColour":"#FFFFFF",
+            "position":{
+                "top":"middle",
+                "left":"middle"
+            },
+            "type":"BublView",
+            "children":[
+                {
+                    "id":"id19",
+                    "position":{
+                        "top":0,
+                        "left":0
+                    },
+                    "cssClass":"fakeroot",
+                    "type":"BublView",
+                    "children":[
+                        {
+                            "auto added control":true,
+                            "type":"BublControl",
+                            "id":"id19",
+                            "bgColour":"#FDC300",
+                            "cssClass":"fakeroot",
+                            "size":{
+                                "width":1368,
+                                "height":770
+                            }
+                        },
+                        {
+                            "oldid":"Main Box",
+                            "oldtype":"BubbleRectangle",
+                            "cssClass":"MainBox-17",
+                            "id":"id6",
+                            "size":{
+                                "width":838,
+                                "height":354
+                            },
+                            "oldguid":"6f3d725c-20d7-421b-ac21-1969a1908af3",
+                            "children":[
+                                {
+                                    "opacity":0.75,
+                                    "auto added control":true,
+                                    "oldguid":"6f3d725c-20d7-421b-ac21-1969a1908af3",
+                                    "type":"BublControl",
+                                    "oldid":"Main Box",
+                                    "oldtype":"BubbleRectangle",
+                                    "cssClass":"MainBox-17 ms-orange",
+                                    "id":"id6",
+                                    "size":{
+                                        "width":838,
+                                        "height":354
+                                    }
+                                },
+                                {
+                                    "opacity":1.0,
+                                    "oldid":"device",
+                                    "oldtype":"BubbleImage",
+                                    "cssClass":"device-16",
+                                    "id":"id0",
+                                    "size":{
+                                        "width":211,
+                                        "height":272
+                                    },
+                                    "oldguid":"6f049d5c-e361-497f-b328-d29d489f2703",
+                                    "content":{
+                                        "url":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/905436b4-b703-44d5-a253-87edeb6e9fac.png"
+                                    },
+                                    "position":{
+                                        "top":10,
+                                        "left":507
+                                    },
+                                    "type":"BublImage"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/bce110be-201a-4147-889f-cece46036d29.png",
+                                    "oldid":"Your favourite devic",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"Yourfavouritedevic-4 text ms-menuControl  fontstyle0",
+                                    "id":"id1",
+                                    "size":{
+                                        "width":345,
+                                        "height":54
+                                    },
+                                    "oldguid":"e64481aa-47c2-4d7e-b74d-4da040734917",
+                                    "label":"<p>Your favourite device</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":48.0,
+                                        "bgtop":0.0,
+                                        "bgheight":48.0
+                                    },
+                                    "position":{
+                                        "top":38,
+                                        "left":37
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/511327ec-e566-4e7b-82b9-3d2816f5d025.png",
+                                    "oldid":"Benefits of using th",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"Benefitsofusingth-6 text ms-menuControl  fontstyle0",
+                                    "id":"id2",
+                                    "size":{
+                                        "width":333,
+                                        "height":54
+                                    },
+                                    "oldguid":"1dff7741-ed4d-4c03-b6d6-60bc8c084363",
+                                    "label":"<p>Benefits of using the device for the patient</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":48.0,
+                                        "bgtop":0.0,
+                                        "bgheight":48.0
+                                    },
+                                    "position":{
+                                        "top":195,
+                                        "left":38
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "bgColour":"#FFFFFF",
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/7ae5b0a2-498b-4b08-ba29-3f9aac38dbe1.png",
+                                    "oldid":"All of your informat",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"Allofyourinformat-5 text ms-menuControl  fontstyle1 fontstyle0",
+                                    "id":"id3",
+                                    "size":{
+                                        "width":319,
+                                        "height":54
+                                    },
+                                    "oldguid":"5012f02f-bf63-4cd1-8fb5-adc6a45b5f72",
+                                    "label":"<p></p><p>All of your information in one place</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":48.0,
+                                        "bgtop":0.0,
+                                        "bgheight":48.0
+                                    },
+                                    "position":{
+                                        "top":117,
+                                        "left":38
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":0.75,
+                                    "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/0e675da9-f9fc-4f94-a0ec-8e8e8f500a79.png",
+                                    "oldid":"Access your data and",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"Accessyourdataand-7 text ms-menuControl  fontstyle0",
+                                    "id":"id4",
+                                    "size":{
+                                        "width":303,
+                                        "height":54
+                                    },
+                                    "oldguid":"76557745-5f11-4650-8621-bc4ccc87ed02",
+                                    "label":"<p>Access your data and information from virtually anywhere</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":48.0,
+                                        "bgtop":0.0,
+                                        "bgheight":48.0
+                                    },
+                                    "position":{
+                                        "top":273,
+                                        "left":38
+                                    },
+                                    "type":"msMenuBox"
+                                },
+                                {
+                                    "opacity":1.0,
+                                    "image":"",
+                                    "oldid":"Roll over / tap the ",
+                                    "oldtype":"BubbleText",
+                                    "cssClass":"Rollovertapthe-15 text ms-menuControl  fontstyle2",
+                                    "id":"id5",
+                                    "size":{
+                                        "width":351,
+                                        "height":28
+                                    },
+                                    "oldguid":"704b9030-fb33-4a99-993f-28e6e3a49af0",
+                                    "label":"<p>Roll over / tap the bullet points for more information.</p>",
+                                    "content":{
+                                        "bgleft":0.0,
+                                        "bgwidth":0.0,
+                                        "bgtop":0.0,
+                                        "bgheight":0.0
+                                    },
+                                    "position":{
+                                        "top":320,
+                                        "left":439
+                                    },
+                                    "type":"msMenuBox"
+                                }
+                            ],
+                            "position":{
+                                "top":228,
+                                "left":66
+                            },
+                            "type":"BublView"
+                        },
+                        {
+                            "opacity":1.0,
+                            "image":"",
+                            "oldid":"Your most valuable r",
+                            "oldtype":"BubbleText",
+                            "cssClass":"Yourmostvaluabler-3 text ms-menuControl  fontstyle3",
+                            "id":"id7",
+                            "size":{
+                                "width":1038,
+                                "height":85
+                            },
+                            "oldguid":"a957c22d-b292-4ee9-971f-40885d17efaf",
+                            "label":"<p>Your most valuable resource is your time.  Mobile devices are simple tools that give you more time to care, and mean less time is spent on sourcing information and completing administration.</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":118,
+                                "left":67
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":1.0,
+                            "image":"",
+                            "oldid":"CCIO  >  Devices & M",
+                            "oldtype":"BubbleText",
+                            "cssClass":"CCIODevicesM-2 text ms-menuControl  fontstyle4",
+                            "id":"id8",
+                            "size":{
+                                "width":911,
+                                "height":57
+                            },
+                            "oldguid":"07e20390-5c28-4ec6-9060-c370a7379816",
+                            "label":"<p>CCIO  >  Devices & Mobile</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":43,
+                                "left":63
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/dadcbfc7-190b-4b1d-b4ca-f96e5e412be5.png",
+                            "oldid":"Microsoft  Azure",
+                            "oldtype":"BubbleText",
+                            "cssClass":"MicrosoftAzure-9 text ms-menuControl  fontstyle0 ms-orange",
+                            "id":"id9",
+                            "size":{
+                                "width":196,
+                                "height":95
+                            },
+                            "oldguid":"e96b2ed7-d63d-49e6-bcbf-bdcf20a5fe0b",
+                            "label":"<p>Microsoft </p><p>Azure</p>",
+                            "content":{
+                                "bgleft":139.79,
+                                "bgwidth":44.21,
+                                "bgtop":42.0,
+                                "bgheight":42.0
+                            },
+                            "position":{
+                                "top":277,
+                                "left":914
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/dadcbfc7-190b-4b1d-b4ca-f96e5e412be5.png",
+                            "oldid":"Windows 10 & Devices",
+                            "oldtype":"BubbleText",
+                            "cssClass":"Windows10Devices-10 text ms-menuControl  fontstyle0 ms-orange",
+                            "id":"id10",
+                            "size":{
+                                "width":196,
+                                "height":95
+                            },
+                            "oldguid":"455cb782-8130-4325-8567-67757f8a2e1e",
+                            "label":"<p>Windows 10& Devices</p>",
+                            "content":{
+                                "bgleft":141.0,
+                                "bgwidth":47.0,
+                                "bgtop":42.35,
+                                "bgheight":44.65
+                            },
+                            "position":{
+                                "top":382,
+                                "left":914
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "bgColour":"#FFFFFF",
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Cid/176/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/16dab969-0db0-4350-9daf-4fd29fc9e2ac.jpg",
+                            "oldid":"Seattle Children's  ",
+                            "oldtype":"BubbleText",
+                            "cssClass":"SeattleChildrens-12 text ms-menuControl  fontstyle5",
+                            "id":"id11",
+                            "size":{
+                                "width":196,
+                                "height":95
+                            },
+                            "oldguid":"b73603a4-dfc1-42e1-a69d-8bff262fda70",
+                            "label":"<p>Seattle Children's </p><p>Hospital</p>",
+                            "content":{
+                                "bgleft":94.0,
+                                "bgwidth":94.0,
+                                "bgtop":34.0,
+                                "bgheight":94.0
+                            },
+                            "position":{
+                                "top":277,
+                                "left":1120
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "bgColour":"#FFFFFF",
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Cid/176/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/68fe3c0c-df38-46e2-9075-3febdb7999ca.png",
+                            "oldid":"Luton & Dunstable Un",
+                            "oldtype":"BubbleText",
+                            "cssClass":"LutonDunstableUn-13 text ms-menuControl  fontstyle5",
+                            "id":"id12",
+                            "size":{
+                                "width":196,
+                                "height":95
+                            },
+                            "oldguid":"1649577f-d681-4525-9a8d-3ce5bac40d66",
+                            "label":"<p>Luton & Dunstable University Hospital</p>",
+                            "content":{
+                                "bgleft":137.0,
+                                "bgwidth":48.0,
+                                "bgtop":57.48,
+                                "bgheight":25.52
+                            },
+                            "position":{
+                                "top":382,
+                                "left":1120
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "bgColour":"#FFFFFF",
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Cid/176/Uid/4169b14a-d51f-4a48-9180-ac417afa679a/Assets/33e991a9-e0d3-4d25-ac59-adec52c1ca30.png",
+                            "oldid":"Palmetto Health",
+                            "oldtype":"BubbleText",
+                            "cssClass":"PalmettoHealth-14 text ms-menuControl  fontstyle5",
+                            "id":"id13",
+                            "size":{
+                                "width":196,
+                                "height":95
+                            },
+                            "oldguid":"4b85003a-60dc-4ea4-89c8-e7345578c4b4",
+                            "label":"<p>Palmetto Health</p>",
+                            "content":{
+                                "bgleft":59.0,
+                                "bgwidth":129.0,
+                                "bgtop":47.13,
+                                "bgheight":39.87
+                            },
+                            "position":{
+                                "top":486,
+                                "left":1120
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/fea6719f-b4e5-45fe-8ddd-75b192e36681.png",
+                            "oldid":"Back",
+                            "oldtype":"BubbleText",
+                            "cssClass":"Back-18 text ms-menuControl  fontstyle6",
+                            "id":"id14",
+                            "size":{
+                                "width":221,
+                                "height":81
+                            },
+                            "oldguid":"d26b1968-3538-4cd6-a19a-323be733ebe9",
+                            "label":"<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Back</p>",
+                            "content":{
+                                "bgleft":5.0,
+                                "bgwidth":60.0,
+                                "bgtop":9.0,
+                                "bgheight":60.0
+                            },
+                            "position":{
+                                "top":649,
+                                "left":247
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/f49ec1ab-db62-440c-9893-2513684063fe.png",
+                            "oldid":"Home",
+                            "oldtype":"BubbleText",
+                            "cssClass":"Home-19 text ms-menuControl  fontstyle6",
+                            "id":"id15",
+                            "size":{
+                                "width":168,
+                                "height":81
+                            },
+                            "oldguid":"a7788c8e-1e00-4597-a43b-de16191b29d4",
+                            "label":"<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home</p>",
+                            "content":{
+                                "bgleft":3.0,
+                                "bgwidth":61.0,
+                                "bgtop":7.0,
+                                "bgheight":61.0
+                            },
+                            "position":{
+                                "top":649,
+                                "left":60
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":1.0,
+                            "oldid":"ms-logo-2012-all-white_copy",
+                            "oldtype":"BubbleImage",
+                            "cssClass":"mslogo2012allwhitecopy-1",
+                            "id":"id16",
+                            "size":{
+                                "width":182,
+                                "height":44
+                            },
+                            "oldguid":"cc289e83-1a27-4243-9382-5e1c45ef025d",
+                            "content":{
+                                "url":"http://bubblestorage.blob.core.windows.net/bubble/Lid/35/Uid/13a95efc-89c9-4272-af81-0c2916bbb1fc/Assets/35c4f5ef-8244-41ef-bf8e-1ae990ad663c.png"
+                            },
+                            "position":{
+                                "top":30,
+                                "left":1142
+                            },
+                            "type":"BublImage"
+                        },
+                        {
+                            "opacity":0.75,
+                            "image":"",
+                            "oldid":"Microsoft Solutions",
+                            "oldtype":"BubbleText",
+                            "cssClass":"MicrosoftSolutions-8 text ms-menuControl  fontstyle0 ms-orange",
+                            "id":"id17",
+                            "size":{
+                                "width":196,
+                                "height":40
+                            },
+                            "oldguid":"b1198e26-9ba3-406d-894e-332225a14a93",
+                            "label":"<p>Microsoft Solutions</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":227,
+                                "left":914
+                            },
+                            "type":"msMenuBox"
+                        },
+                        {
+                            "opacity":0.75,
+                            "bgColour":"#FFFFFF",
+                            "image":"",
+                            "oldid":"Customer Successes",
+                            "oldtype":"BubbleText",
+                            "cssClass":"CustomerSuccesses-11 text ms-menuControl  fontstyle5",
+                            "id":"id18",
+                            "size":{
+                                "width":196,
+                                "height":40
+                            },
+                            "oldguid":"13242156-4229-4216-813a-2cc0adc55504",
+                            "label":"<p>Customer Successes</p>",
+                            "content":{
+                                "bgleft":0.0,
+                                "bgwidth":0.0,
+                                "bgtop":0.0,
+                                "bgheight":0.0
+                            },
+                            "position":{
+                                "top":227,
+                                "left":1120
+                            },
+                            "type":"msMenuBox"
+                        }
+                    ],
+                    "size":{
+                        "width":1368,
+                        "height":770
+                    }
+                }
+            ],
+            "size":{
+                "width":1366,
+                "height":768
+            }
+        }
+    ]
+}

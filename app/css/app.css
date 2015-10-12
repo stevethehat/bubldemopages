@@ -1,0 +1,248 @@
+.zen-control{
+	border: 0;
+	border-radius: 0;
+}
+
+.zen-control .label{
+	text-align: left;	
+}
+
+
+body{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   	font-weight: 300;
+	text-align: left;	   
+}
+
+#newbuttons{
+	background-color: red;
+}
+
+#BublApp{
+	background-color: white;
+}
+
+.zen-control h1{
+	font-size: 180%;
+}
+
+.zen-control h2{
+	font-size: 130%;
+}
+
+.zen-control .label{
+	margin-left: 10px;
+}
+
+button{
+	text-align: center;
+	vertical-align: middle;
+}
+
+#palette{
+	border-right: solid 1px #aaa;
+	top: 2px;
+}
+
+.paletteItem{
+	border-bottom: 1px solid #aaa;
+	width: 100%;
+	padding: 4px;
+	color: #666;
+}
+
+.paletteItem * {
+	padding-left: 6px;
+}
+
+#properties{
+	border-left: solid 1px #aaa;
+}
+
+.icon{
+	margin: auto;
+	color: #94C2C9;
+}
+
+
+#StatusBar{
+	/*border-top: solid 1px #aaa;*/
+	background-color: pink;
+}
+
+p{
+	margin: 0px 0px 0px 10px;
+}
+
+#help, #help *{
+	cursor: pointer;
+}
+
+#toolbar{
+	border-bottom: solid 1px #aaa;
+	border-top: solid 1px #aaa;
+}
+
+#toolbar > .zen-view{
+	margin-top: 4px;	
+}
+
+.iconLabel, .iconLabel *{
+	cursor: pointer;
+}
+
+.iconLabel *{
+	vertical-align: middle;
+	margin-left: 6px;
+}
+
+.thumbnailMI.highlight .back {
+                opacity: 1;
+}
+
+.thumbnailMI .back{
+        -webkit-transition: opacity 1s;
+        transition: opacity 1s;
+        opacity: 0;
+}
+
+.thumbnailMI  .front{
+	width:100%;
+	height:100%;
+}
+.thumbnailMI  .back{
+	width:100%;
+	height:100%;
+}
+.thumbnailMI  div.back,
+.thumbnailMI  div.front {
+	top: 0;
+  	position:absolute;
+  	left:0;
+}
+
+/*
+.thumbnailMI{
+	border: solid 2px white;
+}
+*/
+
+.thumbnailMI h3{
+	font-size: 120%;
+	margin: 10px;	
+}
+
+.thumbnailMI .controls{
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	padding: 2px 3px 2px 3px;
+}
+
+.thumbnailMI .controls *{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.thumbnailMI .control{
+	display:block;
+	float: left;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.thumbnailMI span{
+	margin-left: 2px;
+}
+
+.jsonEditor{
+	font-family: Courier New, Courier, monospace;
+}
+
+.uploader{
+	/*
+	position: relative;
+	top:10px;
+	right:10px;
+	bottom:10px;
+	left:10px;
+	border: dashed 1px #666;
+	*/
+	background-color: #ddd;
+}
+
+.uploader span{
+	padding: 10px;
+	display: block;
+}
+.uploader .progress{
+	height: 20px;
+	border: solid 1px #aaa;
+}
+
+.uploader .progress div.progressCount{
+	padding: 0px 0px 0px 10px;
+	width: 60px;
+	background-color: pink;
+	border: 0px;
+	float:left;
+}
+
+.uploader .progress div.progressBar{
+	padding: 0;
+	background-color: #444;
+	height: 100%;
+	width: 0px;
+}
+
+.uploader input{
+	width:140px;
+	height:24px;
+}
+
+.contentareadrop{
+	width: 100%;
+	height: 100%;
+	margin:10 10 10 10;
+	border: dashed 1px #aaa;
+	cursor: pointer;
+}
+
+.selected .contentareadrop{
+	background-color: #bbb;
+}
+
+
+
+
+.zen-image{
+	background-color: pink;
+}
+
+.zen-video{
+	background-color: yellow;
+}
+
+
+
+#PropertiesForm{
+	
+}
+
+.formElementContainer{
+	padding: 2px 10px 20px 10px;
+}
+
+#PropertiesForm label{
+	width: 100%;
+	padding-bottom: 4px;
+}
+#PropertiesForm input, #PropertiesForm select{
+	width: 100%;
+}
+
+.thumbnailMI *{
+	cursor: pointer;
+}
+
